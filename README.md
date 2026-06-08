@@ -1,1 +1,1 @@
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/GIT01-byte/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/GIT01-byte/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/GIT01-byte/github-profile-summary-cards)
