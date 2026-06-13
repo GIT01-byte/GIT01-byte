@@ -31,4 +31,9 @@
       </td>
     </tr>
   </table>
+  <div style="border: 3px solid #ff0055; background-color: #000000; box-shadow: 8px 8px 0px #00f0ff; padding: 10px; margin-top: 25px; box-sizing: border-box;">
+  <a href="https://github.com/GIT01-byte" style="display: block; text-decoration: none;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=GIT01-byte&bg_color=000000&color=ffffff&line=ff0055&point=00f0ff&area=true&hide_border=true&custom_title=C:%5CUsers%5CGIT01-byte%27s%20Contribution%20Graph" style="width: 100%; display: block; border: none;" alt="GIT01-byte's Contribution Graph" />
+  </a>
+</div>
 </div>
