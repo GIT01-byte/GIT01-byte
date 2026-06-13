@@ -2,7 +2,6 @@
   <kbd>⚡️ MY GITHUB STATS ⚡️</kbd>
 </h2>
 
-<align="center">
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <!-- ЛЕВАЯ КОЛОНКА: Стрик-статистика (Строка 1) -->
