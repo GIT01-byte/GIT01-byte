@@ -1,9 +1,5 @@
 <!-- Главный черный контейнер-рамка с циановой жесткой тенью -->
 <div style="background-color: #000000; padding: 30px; border: 4px solid #ff0055; box-shadow: 12px 12px 0px #00f0ff; max-width: 1040px; margin: 20px auto; box-sizing: border-box;">
-
-  <!-- Радикальный 3D заголовок (шрифт косится под Stalinist One с помощью жирных системных шрифтов) -->
-  <kbd>⚡️ MY GITHUB STATS ⚡️</kbd>
-
   <!-- Табличная сетка сброшена по умолчанию, чтобы убрать стандартные рамки GitHub -->
   <table border="0" cellpadding="0" cellspacing="0" style="background-color: transparent; border-collapse: collapse; width: 100%; border: none; margin: 0 auto;">
     <tr style="border: none; background: none;">
@@ -34,6 +30,5 @@
         </div>
       </td>
     </tr>
-
   </table>
 </div>
