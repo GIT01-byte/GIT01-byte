@@ -1,0 +1,96 @@
+@font-face {
+    font-family: 'Science Gothic';
+    src: local('Science Gothic'), url(../fonts/ScienceGothic-Regular.woff2) format("woff2");
+    font-weight: 100 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Stalinist One';
+    src: local('Stalinist One'), local('Stalinist One Regular'), url(../fonts/StalinistOne-Regular.woff2) format("woff2");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+html {
+    background-color: #000000; /* Глубокий черный для максимального контраста */
+    color: #ffffff;
+}
+
+body * {
+    box-sizing: border-box;
+}
+
+/* Радикальный индустриальный заголовок с неоновым 3D-эффектом */
+.badges__title {
+    font-family: 'Stalinist One', sans-serif;
+    color: #ff0055; /* Кислотно-розовый */
+    text-shadow: 3px 3px 0px #00f0ff; /* Циановая жесткая тень */
+    text-transform: uppercase;
+    font-size: 2rem;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+}
+
+.grid_container {
+    display: grid;
+    grid-template-columns: repeat(2, 500px);
+    grid-template-rows: repeat(2, 200px);
+    gap: 20px; /* Чуть увеличили зазор для теней */
+    margin-top: 15px;
+}
+
+/* Карточки в стиле Необрутализма: острые углы, жирная рамка и жесткая тень */
+.link {
+    border: 3px solid #ff0055;
+    border-radius: 0px; /* Убираем скругление для брутальности */
+    box-shadow: 8px 8px 0px #00f0ff; /* Жесткая плоская тень */
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+    background-color: #000000;
+    overflow: hidden;
+}
+
+/* Эффект вдавливания при наведении */
+.link:hover {
+    transform: translate(4px, 4px);
+    box-shadow: 3px 3px 0px #ff0055;
+    border-color: #00f0ff;
+}
+
+/* СТАТИСТИКА 1: Изменили параметры API на розовый, белый и циановый */
+.heroku_stats {
+    grid-column: 1;
+    grid-row: 1;
+    background-image: url(https://github-readme-streak-stats.herokuapp.com/?user=GIT01-byte&stroke=ff0055&background=000000&ring=00f0ff&fire=ff0055&currStreakNum=ffffff&currStreakLabel=ff0055&sideNums=ffffff&sideLabels=00f0ff&dates=ffffff&hide_border=true);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+/* СТАТИСТИКА 2: Топ-языки в черном, розовом и циановом исполнении */
+.top_lang {
+    grid-column: 2;
+    grid-row: 1/3;
+    background-image: url(https://github-readme-stats.vercel.app/api/top-langs/?username=GIT01-byte&langs_count=5&title_color=ff0055&text_color=ffffff&icon_color=00f0ff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+/* СТАТИСТИКА 3: Основная статистика в тон общей теме */
+.vercel_stats {
+    grid-column: 1;
+    grid-row: 2;
+    background-image: url(https://github-readme-stats.vercel.app/api?username=GIT01-byte&show_icons=true&hide=&count_private=true&title_color=ff0055&text_color=ffffff&icon_color=00f0ff&bg_color=000000&hide_border=true);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.link__img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
