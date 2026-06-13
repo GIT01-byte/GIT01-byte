@@ -8,7 +8,6 @@
 
   <!-- Табличная сетка сброшена по умолчанию, чтобы убрать стандартные рамки GitHub -->
   <table border="0" cellpadding="0" cellspacing="0" style="background-color: transparent; border-collapse: collapse; width: 100%; border: none; margin: 0 auto;">
-    
     <tr style="border: none; background: none;">
       <!-- ЛЕВАЯ КОЛОНКА (Строка 1): Стрик-статистика -->
       <td style="border: none; padding: 10px; background: none; vertical-align: middle; width: 50%;">
@@ -18,7 +17,6 @@
           </a>
         </div>
       </td>
-      
       <!-- ПРАВАЯ КОЛОНКА (Объединяет 2 строки): Топ языков -->
       <td rowspan="2" style="border: none; padding: 10px; background: none; vertical-align: top; width: 50%;">
         <div style="border: 3px solid #ff0055; background-color: #000000; box-shadow: 8px 8px 0px #00f0ff; padding: 0; box-sizing: border-box; height: 100%;">
@@ -28,7 +26,6 @@
         </div>
       </td>
     </tr>
-
     <tr style="border: none; background: none;">
       <!-- ЛЕВАЯ КОЛОНКА (Строка 2): Общая статистика коммитов -->
       <td style="border: none; padding: 10px; background: none; vertical-align: middle; width: 50%;">
@@ -39,6 +36,5 @@
         </div>
       </td>
     </tr>
-
   </table>
 </div>
