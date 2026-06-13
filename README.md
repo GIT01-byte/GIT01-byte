@@ -1,1 +1,1 @@
-[![](https://raw.githubusercontent.com/GIT01-byte/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/GIT01-byte/github-profile-summary-cards)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GIT01-byte&show_icons=true&theme=radical)
