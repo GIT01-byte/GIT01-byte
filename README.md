@@ -2,9 +2,7 @@
 <div style="background-color: #000000; padding: 30px; border: 4px solid #ff0055; box-shadow: 12px 12px 0px #00f0ff; max-width: 1040px; margin: 20px auto; box-sizing: border-box;">
 
   <!-- Радикальный 3D заголовок (шрифт косится под Stalinist One с помощью жирных системных шрифтов) -->
-  <span style="font-family: 'Impact', 'Arial Black', sans-serif; color: #ff0055; text-shadow: 3px 3px 0px #00f0ff; text-transform: uppercase; font-size: 32px; letter-spacing: 3px; text-align: center; display: block; font-weight: 900; margin-top: 0; margin-bottom: 25px;">
-    My GitHub Stats
-  </span>
+  <kbd>⚡️ MY GITHUB STATS ⚡️</kbd>
 
   <!-- Табличная сетка сброшена по умолчанию, чтобы убрать стандартные рамки GitHub -->
   <table border="0" cellpadding="0" cellspacing="0" style="background-color: transparent; border-collapse: collapse; width: 100%; border: none; margin: 0 auto;">
