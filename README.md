@@ -21,7 +21,7 @@
       <td rowspan="2" style="border: none; padding: 10px; background: none; vertical-align: top; width: 50%;">
         <div style="border: 3px solid #ff0055; background-color: #000000; box-shadow: 8px 8px 0px #00f0ff; padding: 0; box-sizing: border-box; height: 100%;">
           <a href="https://github.com/GIT01-byte" style="display: block; text-decoration: none;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GIT01-byte&langs_count=5&title_color=ff0055&text_color=ffffff&icon_color=00f0ff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages&font_family=monospace" style="width: 100%; display: block; border: none;" alt="Top Languages" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GIT01-byte&langs_count=8&title_color=ff0055&text_color=ffffff&icon_color=00f0ff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages&font_family=monospace" style="width: 100%; display: block; border: none;" alt="Top Languages" />
           </a>
         </div>
       </td>
