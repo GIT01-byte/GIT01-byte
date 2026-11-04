@@ -1,34 +1,30 @@
 <!-- Главный черный контейнер-рамка с циановой жесткой тенью -->
 <div style="background-color: #000000; padding: 30px; border: 4px solid #ff0055; box-shadow: 12px 12px 0px #00f0ff; max-width: 1040px; margin: 20px auto; box-sizing: border-box;">
-  <!-- Табличная сетка сброшена по умолчанию, чтобы убрать стандартные рамки GitHub -->
   <table border="0" cellpadding="0" cellspacing="0" style="background-color: transparent; border-collapse: collapse; width: 100%; border: none; margin: 0 auto;">
     <tr style="border: none; background: none;">
       <!-- ЛЕВАЯ КОЛОНКА (Строка 1): Стрик-статистика -->
       <td style="border: none; padding: 10px; background: none; vertical-align: middle; width: 50%;">
         <div style="border: 3px solid #ff0055; background-color: #000000; box-shadow: 8px 8px 0px #00f0ff; padding: 0; box-sizing: border-box;">
           <a href="https://github.com/GIT01-byte" style="display: block; text-decoration: none;">
-            <!-- ОБНОВЛЕНО: домен herokuapp заменен на актуальный streak-stats.demolab.com -->
             <img src="https://streak-stats.demolab.com/?user=GIT01-byte&stroke=ff0055&background=000000&ring=00f0ff&fire=ff0055&currStreakNum=ffffff&currStreakLabel=ff0055&sideNums=ffffff&sideLabels=00f0ff&dates=ffffff&hide_border=true" style="width: 100%; display: block; border: none;" alt="Streak Stats" />
           </a>
         </div>
       </td>
-      <!-- ПРАВАЯ КОЛОНКА (Объединяет 2 строки): Топ языков -->
+      <!-- ПРАВАЯ КОЛОНКА (Объединяет 2 строки): Топ языков — личный Vercel -->
       <td rowspan="2" style="border: none; padding: 10px; background: none; vertical-align: top; width: 50%;">
         <div style="border: 3px solid #ff0055; background-color: #000000; box-shadow: 8px 8px 0px #00f0ff; padding: 0; box-sizing: border-box; height: 100%;">
           <a href="https://github.com/GIT01-byte" style="display: block; text-decoration: none;">
-            <!-- ДОБАВЛЕНО: cache_seconds для снижения нагрузки и повышения стабильности -->
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GIT01-byte&langs_count=5&title_color=ff0055&text_color=ffffff&icon_color=00f0ff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages&font_family=monospace&cache_seconds=86400" style="width: 100%; display: block; border: none;" alt="Top Languages" />
+            <img src="https://github-readme-stats-one-gold-47.vercel.app/api/top-langs/?username=GIT01-byte&langs_count=5&title_color=ff0055&text_color=ffffff&icon_color=00f0ff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages&font_family=monospace&cache_seconds=86400" style="width: 100%; display: block; border: none;" alt="Top Languages" />
           </a>
         </div>
       </td>
     </tr>
     <tr style="border: none; background: none;">
-      <!-- ЛЕВАЯ КОЛОНКА (Строка 2): Общая статистика коммитов -->
+      <!-- ЛЕВАЯ КОЛОНКА (Строка 2): Общая статистика — личный Vercel -->
       <td style="border: none; padding: 10px; background: none; vertical-align: middle; width: 50%;">
         <div style="border: 3px solid #ff0055; background-color: #000000; box-shadow: 8px 8px 0px #00f0ff; padding: 0; box-sizing: border-box;">
           <a href="https://github.com/GIT01-byte" style="display: block; text-decoration: none;">
-            <!-- ДОБАВЛЕНО: cache_seconds для снижения нагрузки и повышения стабильности -->
-            <img src="https://github-readme-stats.vercel.app/api?username=GIT01-byte&show_icons=true&hide=&count_private=true&title_color=ff0055&text_color=ffffff&icon_color=00f0ff&bg_color=000000&hide_border=true&font_family=monospace&cache_seconds=86400" style="width: 100%; display: block; border: none;" alt="GitHub Stats" />
+            <img src="https://github-readme-stats-one-gold-47.vercel.app/api?username=GIT01-byte&show_icons=true&hide=&count_private=true&title_color=ff0055&text_color=ffffff&icon_color=00f0ff&bg_color=000000&hide_border=true&font_family=monospace&cache_seconds=86400" style="width: 100%; display: block; border: none;" alt="GitHub Stats" />
           </a>
         </div>
       </td>
@@ -36,7 +32,6 @@
   </table>
   <div style="border: 3px solid #ff0055; background-color: #000000; box-shadow: 8px 8px 0px #00f0ff; padding: 10px; margin-top: 25px; box-sizing: border-box;">
   <a href="https://github.com/GIT01-byte" style="display: block; text-decoration: none;">
-    <!-- ИЗМЕНЕНО: custom_title заменен на нейтральный 'Contribution Graph' -->
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=GIT01-byte&bg_color=000000&color=ffffff&line=ff0055&point=00f0ff&area=true&hide_border=true&custom_title=Contribution%20Graph" style="width: 100%; display: block; border: none;" alt="GIT01-byte's Contribution Graph" />
   </a>
 </div>
