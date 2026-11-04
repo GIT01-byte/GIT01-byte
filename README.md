@@ -1,8 +1,6 @@
-<!-- Главный черный контейнер-рамка с циановой жесткой тенью -->
 <div style="background-color: #000000; padding: 30px; border: 4px solid #ff0055; box-shadow: 12px 12px 0px #00f0ff; max-width: 1040px; margin: 20px auto; box-sizing: border-box;">
   <table border="0" cellpadding="0" cellspacing="0" style="background-color: transparent; border-collapse: collapse; width: 100%; border: none; margin: 0 auto;">
     <tr style="border: none; background: none;">
-      <!-- ЛЕВАЯ КОЛОНКА (Строка 1): Стрик-статистика -->
       <td style="border: none; padding: 10px; background: none; vertical-align: middle; width: 50%;">
         <div style="border: 3px solid #ff0055; background-color: #000000; box-shadow: 8px 8px 0px #00f0ff; padding: 0; box-sizing: border-box;">
           <a href="https://github.com/GIT01-byte" style="display: block; text-decoration: none;">
@@ -10,7 +8,6 @@
           </a>
         </div>
       </td>
-      <!-- ПРАВАЯ КОЛОНКА (Объединяет 2 строки): Топ языков — личный Vercel -->
       <td rowspan="2" style="border: none; padding: 10px; background: none; vertical-align: top; width: 50%;">
         <div style="border: 3px solid #ff0055; background-color: #000000; box-shadow: 8px 8px 0px #00f0ff; padding: 0; box-sizing: border-box; height: 100%;">
           <a href="https://github.com/GIT01-byte" style="display: block; text-decoration: none;">
@@ -20,7 +17,6 @@
       </td>
     </tr>
     <tr style="border: none; background: none;">
-      <!-- ЛЕВАЯ КОЛОНКА (Строка 2): Общая статистика — личный Vercel -->
       <td style="border: none; padding: 10px; background: none; vertical-align: middle; width: 50%;">
         <div style="border: 3px solid #ff0055; background-color: #000000; box-shadow: 8px 8px 0px #00f0ff; padding: 0; box-sizing: border-box;">
           <a href="https://github.com/GIT01-byte" style="display: block; text-decoration: none;">
@@ -32,7 +28,7 @@
   </table>
   <div style="border: 3px solid #ff0055; background-color: #000000; box-shadow: 8px 8px 0px #00f0ff; padding: 10px; margin-top: 25px; box-sizing: border-box;">
   <a href="https://github.com/GIT01-byte" style="display: block; text-decoration: none;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=GIT01-byte&bg_color=000000&color=ffffff&line=ff0055&point=00f0ff&area=true&hide_border=true&custom_title=Contribution%20Graph" style="width: 100%; display: block; border: none;" alt="GIT01-byte's Contribution Graph" />
+    <img src="https://github-readme-activity-graph-five-brown.vercel.app/graph?username=GIT01-byte&bg_color=000000&color=ffffff&line=ff0055&point=00f0ff&area=true&hide_border=true&custom_title=Contribution%20Graph" style="width: 100%; display: block; border: none;" alt="GIT01-byte's Contribution Graph" />
   </a>
 </div>
 </div>
